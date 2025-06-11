@@ -1,4 +1,3 @@
-# baekjoon
 # Baekjoon Algorithm Solutions
  
 📌 백준(BOJ) 알고리즘 문제 풀이 모음입니다.  
